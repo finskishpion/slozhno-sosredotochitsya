@@ -1,4 +1,12 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+  --background-image: url("../images/cover-image-dark.png");
+  --text-color: #F1B2CE;
+  --title-color: #DB00FF;
+  --accent-color: #FF0070;
+  --accent-color-second: #000028;
+  --accent-color-href: #FF0070;
+  --hover-color: rgba(255, 0, 112, 0.40);
+  --accent-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --main-gap: 20px;
+  --main-font-size: 18px;
+}
