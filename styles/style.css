@@ -85,7 +85,7 @@
 
 .header__theme-menu-button_active {
   outline: 1px solid var(--accent-color-href);
-  pointer-events: none
+  pointer-events: none;
 }
 
 .header__theme-menu-button:hover {

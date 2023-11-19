@@ -1,5 +1,5 @@
 .page.theme_dark {
-  --background-image: url("../images/cover-image-dark.png");
+  --background-image: url(../images/cover-image-dark.png);
   --text-color: #F1B2CE;
   --title-color: #DB00FF;
   --accent-color: #FF0070;
