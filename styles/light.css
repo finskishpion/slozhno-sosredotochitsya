@@ -3,7 +3,7 @@
   --text-color: #353430;
   --title-color: #FFC2E6;
   --accent-color: #FF8DCB;
-  --accent-color-second: #000028;
+  --accent-color-second: #353430;
   --accent-color-href: #353430;
   --hover-color: rgba(50, 49, 45, 0.40);
 }
@@ -21,8 +21,9 @@
     --text-color: #353430;
     --title-color: #FFC2E6;
     --accent-color: #FF8DCB;
-    --accent-color-second: #000028;
+    --accent-color-second: #353430;
+    --accent-color-href: #353430;
     --hover-color: rgba(50, 49, 45, 0.40);  
-    }
+  }
 }
 

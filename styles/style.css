@@ -40,7 +40,7 @@
   inline-size: 9px;
   block-size: 9px;
   background-color: var(--accent-color);
-  box-shadow: 0px 0px 4px var(--accent-color); 
+  box-shadow: 0px 0px 4px var(--accent-color);
   border-radius: 50%;
 }
 
@@ -273,13 +273,6 @@
     gap: 80px;
   }
 
-  .why,
-  .how {
-    display: grid;
-    grid-template-columns: 315px 1fr;
-    gap: var(--main-gap);
-  }
-
   .what .section-title {
     inline-size: 30%;
   }
@@ -341,5 +334,12 @@
   .what .card-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .why,
+  .how {
+    display: grid;
+    grid-template-columns: 315px 1fr;
+    gap: var(--main-gap);
   }
 }
