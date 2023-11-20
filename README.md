@@ -1,2 +1,3 @@
 # slozhno-sosredotochitsya
-Проект "Сложно сосредоточиться" https://github.com/finskishpion/posmotri_v_okno.git
+Проект "Сложно сосредоточиться"
+https://github.com/finskishpion/slozhno-sosredotochitsya.git
