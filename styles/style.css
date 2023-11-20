@@ -40,7 +40,7 @@
   right: -19px;
   inline-size: 9px;
   block-size: 9px;
-  background-color: var(--accent-color);
+  background-color: var(--accent-color-);
   box-shadow: 0px 0px 4px var(--accent-color);
   border-radius: 50%;
 }
@@ -54,15 +54,15 @@
 }
 
 .decorated-zone::before {
-  border-block-start: 1px solid var(--accent-color);
-  border-inline-end: 1px solid var(--accent-color);
+  border-block-start: 1px solid var(--accent-color-third);
+  border-inline-end: 1px solid var(--accent-color-third);
   top: 10px;
   right: 10px;
 }
 
 .decorated-zone::after {
-  border-block-end: 1px solid var(--accent-color);
-  border-inline-start: 1px solid var(--accent-color);
+  border-block-end: 1px solid var(--accent-color-third);
+  border-inline-start: 1px solid var(--accent-color-third);
   bottom: 10px;
   left: 10px;
 }
