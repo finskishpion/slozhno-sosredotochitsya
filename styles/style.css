@@ -30,6 +30,7 @@
   font-weight: 400;
   line-height: 25px;
   text-transform: uppercase;
+  visibility: var(--decor);
 }
 
 .rec::after {
@@ -160,7 +161,7 @@
 }
 
 .section-title {
-  color: var(--accent-color);
+  color: var(--accent-color-third);
   font-size: var(--main-font-size);
   font-weight: 700;
   line-height: 130%;
