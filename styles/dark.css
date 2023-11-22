@@ -3,9 +3,8 @@
   --text-color: #F1B2CE;
   --title-color: #DB00FF;
   --accent-color: #FF0070;
-  --accent-color-href: #FF0070;
-  --accent-color-third: #FF0070;
-  --accent-color-second: #000028;
+  --nav-decorate-color: #FF0070;
+  --accent-text-color: #000028;
   --hover-color: rgba(255, 0, 112, 0.40);
   --decor: visible;
 }
